@@ -20,8 +20,7 @@
 # Ignore Byebug command history file.
 .byebug_history
 
-# database
-config/database.yml
+
 
 # Ignore database
-/config/database1.yml
+/config/database2.yml
