@@ -24,4 +24,4 @@
 config/database.yml
 
 # Ignore database
-config/database1.yml
+/config/database1.yml
