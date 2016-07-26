@@ -22,3 +22,6 @@
 
 # database
 config/database.yml
+
+# Ignore database
+config/database.yml.exmple
